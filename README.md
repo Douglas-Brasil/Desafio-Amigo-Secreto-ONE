@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém um projeto de **Amigo Secreto** proposto pelo **Programa Oracle Next Education** e desenvolvido apenas com HTML, CSS e JavaScript .O objetivo é criar uma aplicação simples, executável no navegador, que permita cadastrar participantes e realizar o sorteio deles, respeitando regras básicas e exibir os resultados de forma segura.
+Este repositório contém um projeto de **Amigo Secreto** proposto pelo **Programa Oracle Next Education** e desenvolvido apenas com HTML, CSS e JavaScript. O objetivo é criar uma aplicação simples, executável no navegador, que permita cadastrar participantes e realizar o sorteio deles, respeitando regras básicas e exibir os resultados de forma segura.
 
 O foco do desafio é boa organização do código front-end, experiência do usuário e lógica do sorteio sem recorrer a frameworks ou back-end.
 
@@ -24,15 +24,16 @@ O foco do desafio é boa organização do código front-end, experiência do usu
 
 ---
 
-## Estrutura de pastas sugerida
+## Estrutura de pastas do projeto
 
 ```
 /Desafio-Amigo-Secreto-ONE/
 └─ /assets/
    └─ (imagens, ícones)
+├─ LICENSE
+├─ README.md
 ├─ app.js
 ├─ index.html
-├─ README.md
 ├─ styles.css
 
 ```
@@ -51,20 +52,7 @@ O foco do desafio é boa organização do código front-end, experiência do usu
 ## Interface e UX
 Ainda adicionarei imagens.
 
-
----
-
-## Como contribuir
-
-1. Faça um fork do repositório.
-2. Crie uma branch com a feature: `git checkout -b feature/nome-da-feature`.
-3. Faça commits atômicos e com mensagens claras.
-4. Abra um pull request descrevendo as mudanças.
-
 ---
 
 ## Licença
-
-Ainda será adicionada futuramente.
-
-
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
