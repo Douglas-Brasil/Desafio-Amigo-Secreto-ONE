@@ -29,7 +29,7 @@ O foco do desafio é boa organização do código front-end, experiência do usu
 ```
 /Desafio-Amigo-Secreto-ONE/
 └─ /assets/
-   └─ (imagens, ícones)
+   └─ (imagens)
 ├─ LICENSE
 ├─ README.md
 ├─ app.js
@@ -50,7 +50,21 @@ O foco do desafio é boa organização do código front-end, experiência do usu
 ---
 
 ## Interface e UX
-Ainda adicionarei imagens.
+### Interface Inicial
+![Interface do sistema](./assets/img-interface-inicial.png)
+Essa é a interface inicial do desafio. Clique o no campo de texto para adicionar os amigos para o sorteio.
+
+### Adicionar Amigos
+![Img sobre adicionar amigos](./assets/img-adicionar-nomes.png)
+Após digitar o nome do primeiro amigo clique em "Adicionar". Repita esse processo para todso os amigos que participarão do sorteio de amigo secreto.
+
+### Começar o Sorteio
+![Img pré-sorteio](./assets/img-antes-do-sorteio.png)
+Para iniciar o sorteio clique em "Sortear amigo".
+
+### Sorteio
+![Img do sorteio](./assets/img-sorteio.png)
+Cada vez que clicar em "Sortear amigo" ocorrerá um novo sorteio do amigo secreto.
 
 ---
 
